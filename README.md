@@ -31,4 +31,4 @@ To install and run the project:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/INathMSOA/Password-Strength-Checker---Beginner.git
+   https://github.com/INathMSOA/Password-Strength-Checker---Beginner.git

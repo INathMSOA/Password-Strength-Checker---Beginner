@@ -1,22 +1,34 @@
-# Password-Strength-Checker---Beginner
-A simple Python script to check the strength of passwords based on length, letters, and numbers.
+# 🔐 Password Strength Checker (Beginner Project)
 
-# Password Strength Checker
+A simple Python script that checks the strength of passwords based on **length**, **letters**, and **numbers**.
 
-## Description
-This project is a simple Python-based tool that checks the strength of passwords based on specific criteria. It validates:
-- Minimum length (at least 8 characters)
-- Contains at least one letter
-- Contains at least one number
+---
 
-## Features
-- Checks password length
-- Validates letters and numbers
-- Provides feedback on password strength
+## 🧠 Description
 
-## Installation
+This beginner-friendly Python tool helps evaluate the strength of passwords based on a few basic criteria.  
+It checks for:
+
+- ✅ Minimum length: **8 characters**
+- ✅ At least **one letter**
+- ✅ At least **one number**
+
+The script provides clear feedback indicating whether a password is **weak**, **moderate**, or **strong**.
+
+---
+
+## ⚙️ Features
+
+- 🔍 Checks password length  
+- 🔡 Validates presence of letters and numbers  
+- 🧾 Provides feedback on password strength  
+
+---
+
+## 💻 Installation & Usage
+
 To install and run the project:
-1. Clone the repository:
+
+1. **Clone the repository:**
    ```bash
-   git clone https://github.com/INathMSOA/password-strength-checker.git
-   
+   git clone https://github.com/INathMSOA/Password-Strength-Checker---Beginner.git
